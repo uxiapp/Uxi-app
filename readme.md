@@ -25,7 +25,7 @@ Want to promote your own server? You can put your server link in Issues. Someone
 
 **Server Issues are for promoting your servers, NOT reporting servers for bad content.**
 
-Also, don't just create like a lot of server issues. Post your server link in the comments of someone else's server issue instead.
+Also, don't just create like a lot of server issues. Post your server link in the comments of someone else's server issue instead. Or you can create a server list. Check in app for how it’s formatted the list. Also the server list must only contain that. No fancy HTML with the server list
 
 ### Server Warnings
 
