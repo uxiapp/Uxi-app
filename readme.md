@@ -37,7 +37,7 @@ If the server has very bad content and you take a screenshot of it while it's ha
 
 ## Issues & Bugs
 
-If there is a bug, don't be afraid to post it in Issues. We will probably fix it in like 24–82 hours.
+If there is a bug, don't be afraid to post it in Issues. We will probably fix it in like 24–82 hours. or even longer or even never. I have a life outside of this
 
 ## The Rules
 
